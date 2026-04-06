@@ -1,0 +1,26 @@
+{
+  "short_name": "English Journal",
+  "name": "English Journal - 英文學習紀錄",
+  "description": "你的隨身英文學習日記，記錄單字、片語、文法，每日打卡！",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#c084fc",
+  "background_color": "#fff9f0",
+  "categories": ["education", "productivity"],
+  "lang": "zh-TW"
+}
